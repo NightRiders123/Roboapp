@@ -3,4 +3,8 @@ body {
   padding: 0;
   font-family: sans-serif;
   background: linear-gradient(to right, rgb(43, 89, 80) 0%, rgb(14, 16, 88) 100%);
+  align-content: center;
+}
+#root{
+	max-width: 99% !important;
 }
