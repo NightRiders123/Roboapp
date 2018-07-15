@@ -1,0 +1,8 @@
+#card{
+	animation-duration: 0.5s !important;
+	overflow: hidden;
+}
+img{
+	border-radius: 1000px;
+	background: #9EEBCF;
+}
